@@ -10,8 +10,7 @@ Pode usar qualquer framework de CSS para acelerar o desenvolvimento, pois o resu
 Você deve fornecer instruções claras sobre como instalar e rodar o seu projeto.  
 
 ### Coisas que sua web app deve permitir
-- Busca
-- Listar os artistas com seus respectivos thumbnails
+- Busca e listagem de artistas com seus respectivos thumbnails
 - Permitir a visualização detalhada individual de cada resultado
 - (opcional) Permitir criar uma lista de favoritos e adicionar/remover músicas nela (A lista pode ser somente por sessão, não precisa salvar em nenhum banco de dados)
 
@@ -19,10 +18,10 @@ Você deve fornecer instruções claras sobre como instalar e rodar o seu projet
 - Clareza do código
 - HTML limpo e claro
 - Conhecimento de JS
-- (opcional) Controle correto das rotas da aplicação
-- (opcional) Uso correto do git
-- (opcional) Testes, testes, testes. Pode usar o que você quiser mas precisa testar o código
-- (opcional) Conhecimento de FP (Functional Programming)
+- Controle correto das rotas da aplicação
+- Uso correto do git
+- Testes, testes, testes. Pode usar o que você quiser mas precisa testar o código
+- Conhecimento de FP (Functional Programming)
 
 ---
 # Frontend test
@@ -34,8 +33,7 @@ Feel free to use any CSS framework to speed up the process - we expect the resul
 You need provide clear informations about how to install and run your project.
 
 ### Must have:
-- Search
-- List of artists with its respective thumbnails
+- Search and list artists with its respective thumbnails
 - Individual page for each music with details
 - (optional) Favourites feature (List of favourites + favourite button to add/remove items to the list - you can use sessions, no need of a data base)
 
@@ -43,7 +41,7 @@ You need provide clear informations about how to install and run your project.
 - Clean and clear code
 - Clean and clear HTML
 - Good level of javascript
-- (optional) Application routes expertise 
-- (optional) Git expertise
-- (optional) Tests! (you can use anything, but you have to test your code somehow)
-- (optional) FP (Functional Programming)
+- Application routes expertise 
+- Git expertise
+- Tests! (you can use anything, but you have to test your code somehow)
+- FP (Functional Programming)
