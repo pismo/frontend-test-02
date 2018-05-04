@@ -1,9 +1,7 @@
 # Teste para vaga de frontend 
-
 Primeiramente você deve fazer um fork desse projeto para então iniciar os trabalhos. Após o teste estar totalmente pronto você deve abrir uma Pull Request de volta para este repositório e enviar um email para [labs@pismo.com.br](mailto:labs@pismo.com.br) confirmando a entrega.
 
 ## O teste
-
 Você precisa criar uma SPA que vai consumir a [Spotify](https://beta.developer.spotify.com/documentation/web-api/).
 
 Pode usar qualquer framework de CSS para acelerar o desenvolvimento, pois o resultado deve ser totalmente responsivo. O suporte de navegadores é para IE Edge+.  
